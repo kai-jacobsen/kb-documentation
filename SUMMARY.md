@@ -2,9 +2,9 @@
 
 * [Introduction](README.md)
 * [Getting started](00_getting-started/intro.md)
-   * [Installation](00_getting-started/install.md)
-   * [Theme support](00_getting-started/theme_integration.md)
-   * [Path configuration](00_getting-started/path_configuration.md)
+   * [1. Installation](00_getting-started/install.md)
+   * [2. Theme support](00_getting-started/theme_integration.md)
+   * [3. Path configuration](00_getting-started/path_configuration.md)
 * [Modules](05_modules/intro.md)
    * [Naming conventions](05_modules/naming_conventions.md)
 
