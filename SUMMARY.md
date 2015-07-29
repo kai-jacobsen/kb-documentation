@@ -11,4 +11,5 @@
       * [Module settings](05_modules/module_settings.md)
       * [Module backend input](05_modules/module_inputs.md)
       * [Module output](05_modules/module_inputs.md)
+      * [Module views](05_modules/module_views.md)
 
