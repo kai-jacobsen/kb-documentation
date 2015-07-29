@@ -1,3 +1,4 @@
+*Getting started*
 ## Path configuration
 
 You need to setup at least one path where your modules exists.  
