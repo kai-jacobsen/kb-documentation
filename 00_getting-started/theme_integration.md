@@ -16,3 +16,5 @@ Adding a `kontentblocks.php` file to the root of your theme or child theme has  
 If you don't like the idea of another file in your theme folder add  
 `add_theme_support('kontentblocks')`  
 to your own bootstrap file (i.e. functions.php)
+
+In the next you need to [configure loading paths](00_getting-started/path_configuration.md).
