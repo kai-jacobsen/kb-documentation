@@ -19,5 +19,6 @@ To add one or multiple paths use this filter, for example:
     );
     
 
-In that case the plugin will look in /themes/##theme-name##/modules/ for modules to load.  
+In that case the plugin will look in ```/themes/theme-name/modules/``` for modules to load.  
 Find out more about folder structure and naming convention for modules [here.](/05_modules/naming_conventions.md)
+ 
