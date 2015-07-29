@@ -1,3 +1,4 @@
+*Getting started*
 ## Theme Support
 
 Just activating the plugin won't do much, because it is mainly driven by code.  
