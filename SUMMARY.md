@@ -8,5 +8,5 @@
 * [Modules](05_modules/intro.md)
    * [Naming conventions](05_modules/naming_conventions.md)
    * [Module overview](05_modules/module_overview.md)
-       *[Module settings](05_modules/module_settings.md)    
+        *[Module settings](05_modules/module_settings.md)    
 
