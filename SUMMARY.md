@@ -11,7 +11,7 @@
    * [Methods](05_modules/module_methods.md)
    * [Properties](05_modules/module_properties.md)
 * [Areas](10_areas/intro.md)
-   * [Registering areas](10_areas/registering.md)
+   * [Registering areas](10_areas/area_registering.md)
    * [Settings](10_areas/area_settings.md)
 * [Contexts](15_contexts/intro.md)
    * [Edit Screen](15_contexts/edit_screen.md)
