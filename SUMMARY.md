@@ -1,10 +1,13 @@
 # Summary
 
 * [Introduction](README.md)
-* [Getting started](00_getting-started/intro.md)
-   * [1. Installation](00_getting-started/install.md)
-   * [2. Theme support](00_getting-started/theme_integration.md)
-   * [3. Path configuration](00_getting-started/path_configuration.md)
+* [Installation](00_getting-started/intro.md)
+   * [1. Installation](00_installation/install.md)
+   * [2. Theme support](00_installation/theme_integration.md)
+   * [3. Path configuration](00_installation/path_configuration.md)
+* [Getting started](02_getting-started/intro.md)   
+   * [Add areas to the theme](02_getting-started/add_areas.md)
+   * [Creating a basic module](02_getting-started/creating_a_basic_module.md)
 * [Modules](05_modules/intro.md)
    * [Naming conventions](05_modules/naming_conventions.md)
    * [Settings](05_modules/module_settings.md)
@@ -16,4 +19,4 @@
 * [Contexts](15_contexts/intro.md)
    * [Edit Screen](15_contexts/edit_screen.md)
 * [Guides](20_guides/intro.md)
-   * [Creating a basic module](20_guides/creating_a_basic_module.md) 
+ 
