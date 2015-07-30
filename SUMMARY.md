@@ -6,7 +6,7 @@
    * [2. Theme support](00_getting-started/theme_integration.md)
    * [3. Path configuration](00_getting-started/path_configuration.md)
 * [Modules](05_modules/intro.md)
-   * [Creating modules (basic)](05_modules/creating_overview.md)
+   * [Creating modules (basics)](05_modules/creating_overview.md)
       * [Naming conventions **-needs link**](05_modules/naming_conventions.md)
    * [Module basics](05_modules/module_overview.md)
       * [Module settings](05_modules/module_settings.md)
