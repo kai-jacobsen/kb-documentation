@@ -15,6 +15,6 @@ If you don't follow this convention your module gets ignored and does not appear
 
 ####Other files
 
-A module can be enabled to be automatically connected to different (frontend) templates. If enabled all .twig files in the module root folder are recognized as templates.  
+A module can be enabled to be automatically connected to different (frontend) templates. If enabled, all .twig files in the module root folder are recognized as possible templates.  
 Other files and folders are ignored. 
 
