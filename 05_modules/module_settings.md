@@ -22,7 +22,8 @@ Changing settings affects all existing/already added modules (well, with one exc
             'views' => true,
             'connect' => array( 'normal', 'side', 'content-area' ),
             'controls' => array(
-                'width' => 600
+                'width' => 600,
+                'fullscreen' => false
             ),
             'disabled' => false,
             'hidden' => false
@@ -65,14 +66,14 @@ If enabled, a Module->View instance is automatically created.
 Connect the module to all areas, specific areas or areas in a specific context.  
 #####Possible values:
 **'any'**: Make the module available to all registered areas  
-**array**: array of area ids or context ids. Default available contexts are 'top', 'normal', 'side' and 'bottom'  
+**array**: array of area id or context id strings. Default available contexts are 'top', 'normal', 'side' and 'bottom'  
 i.e. 'connect' => array('top', normal', 'content-area')  
 
 *default: 'any'*
 
 ##### (array) controls
 
-Settings for the frontend edit modal.
+Settings for the front-end edit modal.
 
 *default: ['width' => 450, 'fullscreen' => false]*
 
