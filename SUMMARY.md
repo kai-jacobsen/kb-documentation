@@ -8,8 +8,9 @@
 * [Modules](05_modules/intro.md)
    * [Creating modules (basics)](05_modules/creating_overview.md)
       * [Naming conventions **-needs link**](05_modules/naming_conventions.md)
-   * [Module basics](05_modules/module_overview.md)
       * [Module settings](05_modules/module_settings.md)
+   * [Module basics](05_modules/module_overview.md)
+
       * [Module backend input](05_modules/module_inputs.md)
       * [Module output](05_modules/module_inputs.md)
       * [Module views](05_modules/module_views.md)
