@@ -6,7 +6,7 @@
    * [2. Theme support](00_getting-started/theme_integration.md)
    * [3. Path configuration](00_getting-started/path_configuration.md)
 * [Modules](05_modules/intro.md)
-   * [Naming conventions **-needs link**](05_modules/naming_conventions.md)
+   * [Naming conventions](05_modules/naming_conventions.md)
    * [Settings](05_modules/module_settings.md)
    * [Methods](05_modules/module_methods.md)
    * [Properties](05_modules/module_properties.md)
