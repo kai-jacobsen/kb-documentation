@@ -18,6 +18,7 @@
    * [3. Create a custom input form](03_getting-started-adv/custom_form.md)
    * [4. Handle saving on your own](03_getting-started-adv/custom_save.md)
 * [Modules](05_modules/intro.md)
+   * [Module types](05_modules/module_types.md)
    * [Naming conventions](05_modules/naming_conventions.md)
    * [Settings](05_modules/module_settings.md)
    * [Methods](05_modules/module_methods.md)
