@@ -6,7 +6,7 @@
    * [2. Add Theme support](00_installation/theme_integration.md)
    * [3. Path configuration](00_installation/path_configuration.md)
 * [Getting started I (basics)](02_getting-started/intro.md)   
-   * [Add an area to your theme](02_getting-started/add_areas.md)
+   * [Add areas to your theme](02_getting-started/add_areas.md)
    * [Create a basic module](02_getting-started/creating_a_basic_module.md)
    * [Create a user input form using built-in fields ](02_getting-started/user_form_fields_api.md)
    * [Create a Twig front-end template for the module](02_getting-started/create_twig_template.md)
