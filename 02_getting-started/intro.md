@@ -27,5 +27,5 @@ Whenever you wonder "..but can I do .." the answer is probably yes, but you won'
 5. Setup inline editing for both input fields
 
 The whole process will take approx. 15 minutes.  
-Screenshots are from a vanillay WordPress instance with Twentyfifteen as theme.  
+Screenshots are from a vanillay WordPress instance with a Twentyfifteen child theme.  
 No further plugins are active.
