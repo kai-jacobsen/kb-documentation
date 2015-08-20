@@ -9,3 +9,14 @@ The plugin does not share any code with WordPress sidebars and widgets, which me
 - Kontentblocks won't affect your sidebars or widgets  
 - Sidebars and widgets are not (re)usable by the plugin
 
+So, if you have ever worked with sidebars and widgets, you already have an good idea of the basic concept.
+
+To avoid confusion between WordPress core concepts and Kontentblocks, different terms are used:
+
+####Module
+
+Similar to a WordPress widget, a module is basically a container with a form for user input on the back-end and (HTML) output on the front-end.
+
+#### Areas 
+
+An area, like a WordPress sidebar, is a basically a container for modules
