@@ -19,4 +19,17 @@ Similar to a WordPress widget, a module is basically a container with a form for
 
 #### Areas 
 
-An area, like a WordPress sidebar, is a basically a container for modules
+An area, like a WordPress sidebar, is basically a container for modules.
+
+#### Context
+
+A context is basically a container for areas.  
+The post edit screen can be divided into different contexts, and a context can hold multiple areas.
+
+
+### Some words on ...
+
+#### Front-end, Back-end
+
+The plugin started as a back-end only user interface. Over time a lot of functionality moved to the front-end as well. 
+
