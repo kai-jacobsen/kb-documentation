@@ -23,7 +23,7 @@ A modern browser.
 
 2. require the package
 
-        "jcbsn/kontentblocks" : "0.3.8"
+        "jcbsn/kontentblocks" : "0.4.2"
         
 3. install
 
