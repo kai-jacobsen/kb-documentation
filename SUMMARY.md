@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [1. Installation](00_getting-started/intro.md)
+* [1. Installation](00_installation/intro.md)
    * [1. Installation](00_installation/install.md)
    * [2. Add Theme support](00_installation/theme_integration.md)
    * [3. Path configuration](00_installation/path_configuration.md)
