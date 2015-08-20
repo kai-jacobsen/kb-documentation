@@ -47,3 +47,16 @@ Panels are static containers for settings and coupled to the built-in Fields API
 
 
 ![](kb-ui.png)
+
+This screenshot described from top to bottom:
+
+- A simple PostPanel for the page header image
+- The main Kontentblocks user interface with four contexts:
+    - top
+    - content | side
+    - bottom
+
+Each context has one attached area.
+
+The layout of the edit screen is just an visual aid and can be changed by using custom context layouts (via filter).
+The screenshot shows the default layout when all contexts have an area attached. Empty contexts are not visible.
