@@ -60,3 +60,9 @@ Each context has one attached area.
 
 The layout of the edit screen is just an visual aid and can be changed by using custom context layouts (via filter).
 The screenshot shows the default layout when all contexts have an area attached. Empty contexts are not visible.
+
+![](kb-front.png)
+
+The front-end view of the same page.  
+Module and inline controls are turned on (via admin bar switch).  
+Blue buttons activate inline-editing, black buttons are for module controls.  
