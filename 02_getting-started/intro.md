@@ -15,16 +15,16 @@ Whenever you wonder "..but can I do .." the answer is probably yes, but you won'
 - WordPress 4.3
 - PHP 5.4+
 - a code editor
-- A theme or child theme to edit (Twentyfifteen is used as reference)
-- You've installed and activated the plugin and read the installation steps 1 & 2
 
 #### What you're going to do
 
-1. Add an area to the 'page' post type of your theme.
-2. Create a simple module with a headline field and an editor instance
-3. Edit the template file to add the render hook
-4. Create a twig template for the module
-5. Setup inline editing for both input fields
+1. Get a brief introduction.
+2. Configure the plugin
+3. Add areas to the 'page' post type of your theme.
+4. Create a simple module with a headline field and an editor instance
+5. Edit the template file to add the render hook
+6. Create a twig template for the module
+7. Setup inline editing for both input fields
 
 The whole process will take approx. 15 minutes.  
 Screenshots are from a vanillay WordPress instance with a Twentyfifteen child theme.  
