@@ -15,7 +15,7 @@ To avoid confusion between WordPress core concepts and Kontentblocks, different 
 
 ####Module
 
-Similar to a WordPress widget, a module is basically a container with a form for user input on the back-end and (HTML) output on the front-end. 
+Similar to a WordPress widget, a module is basically a container with a form for user input on the back-end and (HTML) output on the front-end.  
 
 #### Areas 
 
@@ -23,13 +23,8 @@ An area, like a WordPress sidebar, is basically a container for modules.
 
 #### Context
 
+You might know this term from meta boxes.
 A context is basically a container for areas.  
 The post edit screen can be divided into different contexts, and a context can hold multiple areas.
 
-
-### Some words on ...
-
-#### Front-end, Back-end
-
-The plugin started as a back-end only user interface. Over time a lot of functionality moved to the front-end as well. 
 
