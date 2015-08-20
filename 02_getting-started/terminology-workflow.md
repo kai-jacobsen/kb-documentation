@@ -14,19 +14,20 @@ So, if you have ever worked with sidebars and widgets, you already have an good 
 To avoid confusion between WordPress core concepts and Kontentblocks, different terms are used.  
 Following are brief overview of the most used terms when working with Kontentblocks.
 
-####Module
-
-Similar to a WordPress widget, a module is basically a container with a form for user input on the back-end and (HTML) output on the front-end.  
-
-#### Areas 
-
-An area, like a WordPress sidebar, is basically a container for modules.
-
 #### Context
 
 You might know this term from meta boxes.
 A context is basically a container for areas.  
 The post edit screen can be divided into different contexts, and a context can hold multiple areas.
+
+#### Areas 
+
+An area, like a WordPress sidebar, is basically a container for modules.
+
+####Module
+
+Similar to a WordPress widget, a module is basically a container with a form for user input on the back-end and (HTML) output on the front-end.  
+
 
 #### Fields
 
@@ -43,3 +44,6 @@ Panels are static containers for settings and coupled to the built-in Fields API
 - **OptionsPanel**  
   Attached to the WordPress admin menu as a sub-item or main menu item.  
   Does not support inline/front-end editing but (most) fields can be attached to the WordPress customizer as a panel with sections.
+
+
+![](kb-ui.png)
