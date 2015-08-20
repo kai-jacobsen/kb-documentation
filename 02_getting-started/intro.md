@@ -14,7 +14,6 @@ Whenever you wonder "..but can I do .." the answer is probably yes, but you won'
 
 - WordPress 4.3
 - PHP 5.4+
-- a code editor
 
 #### What you're going to do
 
@@ -27,5 +26,5 @@ Whenever you wonder "..but can I do .." the answer is probably yes, but you won'
 7. Setup inline editing for both input fields
 
 The whole process will take approx. 15 minutes.  
-Screenshots are from a vanillay WordPress instance with a Twentyfifteen child theme.  
+Screenshots are from a vanilla WordPress 4.3 instance with a Twentyfifteen child theme.  
 No further plugins are active.
