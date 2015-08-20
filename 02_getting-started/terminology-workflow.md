@@ -15,7 +15,7 @@ To avoid confusion between WordPress core concepts and Kontentblocks, different 
 
 ####Module
 
-Similar to a WordPress widget, a module is basically a container with a form for user input on the back-end and (HTML) output on the front-end.
+Similar to a WordPress widget, a module is basically a container with a form for user input on the back-end and (HTML) output on the front-end. 
 
 #### Areas 
 
