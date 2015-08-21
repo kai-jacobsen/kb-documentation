@@ -33,6 +33,9 @@ This will add two areas with the given id to the post-type 'page' when no specia
 
 #### Result
 
-The edit screen of a page should now look similiar to this:
+The edit screen of a page should now look like this:
 
 ![](kb-areas.png)
+
+
+Next step is to create your first module.
