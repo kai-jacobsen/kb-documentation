@@ -57,7 +57,7 @@ class ModuleDemo extends Module
 
 If you now click on the "add a module" link at the bottom right corner of an area, you should see something like this:
 
-![](add-module.png)
+![](ps2.gif)
 
 Clicking on the entry will add the module to the area.  
 As you can tell from the class code, there is no form configured yet.
