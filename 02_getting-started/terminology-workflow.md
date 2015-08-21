@@ -65,4 +65,4 @@ The screenshot shows the default layout when all contexts have an area attached.
 
 The front-end view of the same page.  
 Module and inline controls are turned on (via admin bar switch).  
-Blue buttons activate inline-editing, black buttons are for module controls.  
+Blue buttons activate inline-editing, black buttons are for module controls.
