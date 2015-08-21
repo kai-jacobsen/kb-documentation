@@ -77,6 +77,7 @@ Open the `example.twig` file and add the following:
 <h1>{{ Model.headline }}</h1>
 {{ Model.longtext|the_content }}
 ```
+![](devdemo.png)
 
 ...or whatever markup you like.  The important bit here is:  
 The field data is available by key through the `Model` object.
