@@ -22,7 +22,7 @@ This hook will render all areas of the given context in the order they appear on
 
 ###The changed content-page.php
 
-```
+```html
 <?php
 /**
  * The template used for displaying page content
