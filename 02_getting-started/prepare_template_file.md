@@ -22,7 +22,8 @@ This hook will render all areas of the given context in the order they appear on
 
 ###The changed content-page.php
 
-```<?php
+```
+<?php
 /**
  * The template used for displaying page content
  *
@@ -64,7 +65,8 @@ This hook will render all areas of the given context in the order they appear on
 
 	<?php edit_post_link( __( 'Edit', 'twentyfifteen' ), '<footer class="entry-footer"><span class="edit-link">', '</span></footer><!-- .entry-footer -->' ); ?>
 
-</article><!-- #post-## -->```
+</article><!-- #post-## -->
+```
 
 `do_action('kb_context', 'normal');` added after `the_content`.  
 `$post_id`, if not set, will be the same as the return value of `get_the_ID()`.  
