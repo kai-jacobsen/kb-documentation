@@ -98,3 +98,4 @@ If all is correct, it looks like this:
 
 ![](withfields.gif)
 
+Next step: render the module.
