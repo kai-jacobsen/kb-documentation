@@ -85,5 +85,3 @@ Worth noting: all WordPress filters and functions are accessible inside the Twig
 
 
 For more information about Twig please refer to their documentation: [http://twig.sensiolabs.org/](http://twig.sensiolabs.org/)
-
-Next step: setup inline editing.

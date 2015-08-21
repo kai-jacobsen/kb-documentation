@@ -41,5 +41,3 @@ To avoid confusion at the start, this first line brings it back.
 
 The second filter adds a path to modules. The plugin will look in all registered paths for valid modules.  
 A module path must be inside ```WP_CONTENT_DIR```. 
-
-Next step: Adding areas.

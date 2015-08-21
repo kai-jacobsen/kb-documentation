@@ -51,7 +51,7 @@ Open up your `DemoModule.php` file and add the following to it:
                          'longtext', // field key
                          array(
                              'label' => 'Editor',
-                             'media' => true, // enable add media button
+                             'media' => true, // enable add media button 
                              'std' => '<h2>Hello World</h2><p>Lorem Ipsum...</p>'
                          )
                      );
@@ -97,5 +97,3 @@ Visit the edit screen of a page and add a new module if not already done, or rel
 If all is correct, it looks like this:
 
 ![](withfields.gif)
-
-Next step: [prepare the WordPress template for rendering](./prepare_template_file.html)
