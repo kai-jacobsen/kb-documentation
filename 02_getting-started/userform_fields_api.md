@@ -93,5 +93,8 @@ An alternative way of writing the above with the same result would look like thi
 
 In that case you could pass a section to a custom filter or other manipulating functions.
 
-Visit the edit screen of a page and add a new module if not already done, or reload.
+Visit the edit screen of a page and add a new module if not already done, or reload.  
+If all is correct, it looks like this:
+
+![](withfields.gif)
 
