@@ -77,3 +77,12 @@ Open the `example.twig` file and add the following:
 <h1>{{ Model.headline }}</h1>
 {{ Model.longtext|the_content }}
 ```
+
+...or whatever markup you like.  The important bit here is:  
+The field data is available by key through the `Model` object.
+Worth noting: all WordPress filters and functions are accessible inside the Twig view as well, hence the `|the_content`. 
+
+
+For more information about Twig please refer to their documentation: [http://twig.sensiolabs.org/](http://twig.sensiolabs.org/)
+
+Next step: setup inline editing.
