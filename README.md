@@ -3,6 +3,8 @@
 #### Table of contents
 
 # Summary
+# Summary
+
 * [1. Installation](00_installation/install.md)
    * [1. Add Theme support](00_installation/theme_integration.md)
    * [2. Path configuration](00_installation/path_configuration.md)
@@ -14,4 +16,4 @@
    * [5. Create a user input form using built-in fields](02_getting-started/userform_fields_api.md)
    * [6. Prepare the WordPress template](02_getting-started/prepare_template_file.md)
    * [7. Create a front-end view for the module](02_getting-started/module_template.md) 
-   * [8. Setup inline editing](02_getting-started/setup_inline_editing.md)
+   * [8. Front-end and inline editing](02_getting-started/setup_inline_editing.md)
