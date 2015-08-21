@@ -23,7 +23,7 @@ In the current configuration the `Model.headline` simply  contains the "raw" inp
 
 Open up your `DemoModule.php` file and revisit the `fields()` method, change it like this:
 
-   ```
+   ```php
    public function fields()
     {
 
