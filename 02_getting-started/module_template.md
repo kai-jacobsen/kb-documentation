@@ -3,7 +3,7 @@
 ##Create a front-end view for the module (using twig)
 
 At this step, the demo module should look like this:
-```
+```php
 /**
  * Class ModuleDemo
  */
