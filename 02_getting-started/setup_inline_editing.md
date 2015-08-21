@@ -1,6 +1,6 @@
 *Getting started*
 
-##Setup inline editing
+##Front-end and inline editing
 
 Each module comes with front-end controls which are accessible when "Show editable elements" is turned on in the admin bar.
 
@@ -19,7 +19,7 @@ When setting up fields, there is a special `returnObj` parameter, which is not u
 ReturnObjects are special classes which can be used to extend/augment a field value before it arrives at the frontend.  
 In the current configuration the `Model.headline` simply  contains the "raw" input data, a string of text.
 
-####Change field value to special ReturnObject
+####Enable inline editing
 
 Open up your `DemoModule.php` file and revisit the `fields()` method, change it like this:
 
