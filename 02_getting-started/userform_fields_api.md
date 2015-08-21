@@ -98,4 +98,4 @@ If all is correct, it looks like this:
 
 ![](withfields.gif)
 
-Next step: [prepare the WordPress template for rendering](02_getting-started/prepare_template_file.md)
+Next step: prepare the WordPress template for rendering
