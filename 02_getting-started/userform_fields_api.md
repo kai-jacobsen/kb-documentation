@@ -11,7 +11,7 @@ It has some benefits like:
     - customizer integration
 
 ***
-
+*technical insights*
 ###Module->fields() method
 
 If a `fields()` method is present in the extending module class, an instance of the `ModuleFieldController` class gets assigned to the `$this->fields` module property.  
