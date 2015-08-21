@@ -5,7 +5,7 @@
 
 You're going to add to areas to the `normal` context.  
 
-Add the following code to your `kontentblocks.php` file:
+Add the following code two your `kontentblocks.php` file:
 
 ```php
 \Kontentblocks\registerArea(
