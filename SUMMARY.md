@@ -12,3 +12,4 @@
    * [6. Prepare the WordPress template](02_getting-started/prepare_template_file.md)
    * [7. Create a front-end view for the module](02_getting-started/module_template.md) 
    * [8. Front-end and inline editing](02_getting-started/setup_inline_editing.md)
+
