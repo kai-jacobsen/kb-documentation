@@ -2,7 +2,7 @@
 
 ##Setup inline editing
 
-Each module comes automatically with front-end controls which is accessible when "Show editable elements" is turned on in the admin bar.
+Each module comes with front-end controls which are accessible when "Show editable elements" is turned on in the admin bar.
 
 ![](femodal.gif)
 
@@ -23,6 +23,7 @@ In the current configuration the `Model.headline` simply  contains the "raw" inp
 
 Open up your `DemoModule.php` file and revisit the `fields()` method, change it like this:
 
+   ```
    public function fields()
     {
 
@@ -50,7 +51,7 @@ Open up your `DemoModule.php` file and revisit the `fields()` method, change it 
                 'the_content' => true
             )
         );
-    }
+    }```
 
 
 There are some built-in ReturnObjects, `EditableElement` is one of them.  
