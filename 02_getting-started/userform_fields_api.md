@@ -33,7 +33,7 @@ The `FieldSection` class offers a `addField()` method.
 
 Open up your `DemoModule.php` file and add the following to it:
 
-    ```
+    ```php
     public function fields()
     {
         // create group and add fiels in one run
@@ -63,7 +63,7 @@ The `key` is used to access the data later on.
 
 An alternative way of writing the above with the same result would look like this:
 
-    ```
+    ```php
     public function fields()
     {
         // create group and add fiels in a seperate step
