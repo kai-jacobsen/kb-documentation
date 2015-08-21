@@ -20,7 +20,7 @@ Throughout this guide,  all configuration code will go into the `kontentblocks.p
 
 Open your `kontentblocks.php` file and paste the following code to it:
 
-```
+```php
 <?php
 // re-enable the standard editor for post-type 'page'
 add_filter('kb.remove.editor.page', '__return_false');
