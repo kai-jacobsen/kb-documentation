@@ -1,8 +1,5 @@
 # Kontentblocks
 
-#### Table of contents
-
-# Summary
 # Summary
 
 * [1. Installation](00_installation/install.md)
