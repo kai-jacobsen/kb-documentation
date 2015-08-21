@@ -10,7 +10,7 @@
    * [3. Add areas to your theme](02_getting-started/add_areas.md)
    * [4. Create a basic module](02_getting-started/creating_a_basic_module.md)
    * [5. Create a user input form using built-in fields](02_getting-started/userform_fields_api.md)
-   * [6. Prepare the page template](02_getting-started/prepare_template_file.md)
+   * [6. Prepare the WordPress template](02_getting-started/prepare_template_file.md)
    * [7. Create the front-end template for the module](02_getting-started/module_template.md) 
    * [8. Setup inline editing](02_getting-started/setup_inline_editing.md)
 * [3. Getting started II (advanced)](03_getting-started-adv/intro.md)
