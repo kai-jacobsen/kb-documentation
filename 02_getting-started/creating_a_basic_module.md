@@ -30,7 +30,7 @@ Inside of this folder, create the following:
 ##Module sceleton
 
 Open up the `ModuleDemo.php` and paste the following:
-```
+```php
 <?php
 
 use Kontentblocks\Modules\Module;
