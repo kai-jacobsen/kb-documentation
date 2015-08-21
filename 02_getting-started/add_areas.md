@@ -28,7 +28,10 @@ Add the following code to your `kontentblocks.php` file:
     )
 );```
 
-This will add two areas with the given id to the post-type 'page' when no special page template is selected.
+This will add two areas with the given id to the post-type 'page' when no special page template is selected.  
+
+If you feel uncomfortable writing code this way, there is an alternative wrapper function you can use:
+`kb_register_area($args)`
 
 
 #### Result
