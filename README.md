@@ -3,7 +3,6 @@
 #### Table of contents
 
 # Summary
-
 * [1. Installation](00_installation/install.md)
    * [1. Add Theme support](00_installation/theme_integration.md)
    * [2. Path configuration](00_installation/path_configuration.md)
