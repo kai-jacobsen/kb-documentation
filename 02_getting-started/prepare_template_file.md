@@ -80,5 +80,3 @@ Works the same way as the `kb_context` hook, but takes an specific `$area_id` in
 **Alternative functions:**  
 - `kb_render_area( $area_id, $post_id, $additionalArgs )`
 - `\Kontentblocks\renderSingleArea( $area_id, $post_id, $additionalArgs );`
-
-Next step: create the module front-end template
