@@ -61,5 +61,3 @@ If you now click on the "add a module" link at the bottom right corner of an are
 
 Clicking on the entry will add the module to the area.  
 As you can tell from the class code, there is no form configured yet.
-
-Next step: add fields to the module.
