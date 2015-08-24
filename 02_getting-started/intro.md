@@ -22,8 +22,9 @@ Whenever you wonder "..but can I do .." the answer is probably yes, but you won'
 3. Add areas to the 'page' post type of your theme.
 4. Create a simple module with a headline field and an editor instance
 5. Edit the template file to add the render hook
-6. Create a twig template for the module
-7. Setup inline editing for both input fields
+6. Prepare the WordPress theme file
+7. Create a twig template for the module
+8. Setup inline editing for both input fields
 
 The whole process will take approx. 15 minutes.  
 Screenshots are from a vanilla WordPress 4.3 instance with a Twentyfifteen child theme.  
