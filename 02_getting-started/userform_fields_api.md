@@ -36,7 +36,7 @@ Open up your `DemoModule.php` file and add the following to it:
 ```php
     public function fields()
     {
-        // create group and add fiels in one run
+        // create group and add fields in one run
         $this->fields->addGroup( 'section1', array( 'label' => 'Group of fields' ) )
                      ->addField(
                          'text', // field type
