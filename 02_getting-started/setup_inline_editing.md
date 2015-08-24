@@ -56,9 +56,9 @@ Open up your `DemoModule.php` file and revisit the `fields()` method, change it 
 
 There are some built-in ReturnObjects, `EditableElement` is one of them.  
 The `editor` field has an additional parameter `the_content` set, which handles some special situations.
-For now, just replace your `fields()` method with the aboce code.
+For now, just replace your `fields()` method with the above code.
 
-Dooing this won't change much. We need to change the output from the example.twig as well:
+Doing this won't change much. We need to change the output from the example.twig as well:
 
 ```
 {{ Model.headline.el('h1').html()|raw }}
